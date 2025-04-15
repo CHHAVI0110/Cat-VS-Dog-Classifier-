@@ -1,4 +1,4 @@
-FINE-TUNED-DOG-CAT-MODEL
+FINE-TUNED-DOG-CAT-MODEL 
 A deep learning project that classifies images as either a dog or a cat using Convolutional Neural Networks (CNNs) and fine-tuned transfer learning (VGG16). Built with TensorFlow and Keras.
 
 Overview:
